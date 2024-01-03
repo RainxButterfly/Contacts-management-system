@@ -4,5 +4,5 @@ Project – Contacts Management System
 语言：C++
 Language: C++
 
-开发者：星河一叶.Ck
-Developer: Kazuha Galaxy. Ck
+开发者：星河一叶.Ck[薛]
+Developer: Kazuha Galaxy. Ck[薛]
